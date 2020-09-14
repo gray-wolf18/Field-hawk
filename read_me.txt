@@ -10,4 +10,8 @@ go to this link (http://wiki.ros.org/melodic)
 
 all this run in the same time 
 
+The usage of ROS(robotics operating system) environment needs some explination
+Use the link below :
+https://drive.google.com/file/d/1MNK5nSLgzL8Gv3g7zQNDUHSZ2-_Hq_IZ/view?usp=sharing
+
 
