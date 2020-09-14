@@ -1,2 +1,2 @@
-
+my_pkg
 -DCATKIN_DEVEL_PREFIX=/home/gray_wolf/Field_hawk/devel -DCMAKE_INSTALL_PREFIX=/home/gray_wolf/Field_hawk/install -G Unix Makefiles

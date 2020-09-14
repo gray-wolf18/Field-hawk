@@ -8,6 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/gray_wolf/Field_hawk/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/gray_wolf/Field_hawk/devel/lib:$LD_LIBRARY_PATH"
 export PWD='/home/gray_wolf/Field_hawk/build'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/gray_wolf/Field_hawk/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/gray_wolf/Field_hawk/src:$ROS_PACKAGE_PATH"
