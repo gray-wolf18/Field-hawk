@@ -14,4 +14,9 @@ The usage of ROS(robotics operating system) environment needs some explination
 Use the link below :
 https://drive.google.com/file/d/1MNK5nSLgzL8Gv3g7zQNDUHSZ2-_Hq_IZ/view?usp=sharing
 
+now i will show you how i can control drone from key in bulit_in ROS see This video :
+
+
+https://drive.google.com/file/d/1VQ4QGaj87vm1NZPIo8JlSP9wIbyvuLb9/view?usp=sharing
+
 
