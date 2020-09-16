@@ -23,3 +23,6 @@ https://drive.google.com/file/d/1VQ4QGaj87vm1NZPIo8JlSP9wIbyvuLb9/view?usp=shari
 
 https://drive.google.com/file/d/1FrqIiiusO9JdbjDp88YO_fNjI5L0iuxv/view?usp=sharing
 
+***اكتب بال text
+We faced a problem in submitting the video so the video link is :
+https://drive.google.com/file/d/1_CtQnDZ6FpnmRLOJTHZWaiqorYvaPTGh/view?usp=sharing
