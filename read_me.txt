@@ -10,13 +10,16 @@ go to this link (http://wiki.ros.org/melodic)
 
 all this run in the same time 
 
-The usage of ROS(robotics operating system) environment needs some explination
+1-The usage of ROS(robotics operating system) environment needs some explination
 Use the link below :
 https://drive.google.com/file/d/1MNK5nSLgzL8Gv3g7zQNDUHSZ2-_Hq_IZ/view?usp=sharing
 
-now i will show you how i can control drone from key in bulit_in ROS see This video :
-
+2-now i will show you how i can control drone from key in bulit_in ROS see This video:  
 
 https://drive.google.com/file/d/1VQ4QGaj87vm1NZPIo8JlSP9wIbyvuLb9/view?usp=sharing
 
+
+3-Controlling and tracking the determined task via mission planner :
+
+https://drive.google.com/file/d/1FrqIiiusO9JdbjDp88YO_fNjI5L0iuxv/view?usp=sharing
 
